@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 Modul: main.py
 Autor: Manuel Hanack (Matrikelnummer: IU14156336)

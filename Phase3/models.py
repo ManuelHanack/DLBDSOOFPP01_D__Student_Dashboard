@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 Modul: models.py
 Autor: Manuel Hanack (Matrikelnummer: IU14156336)

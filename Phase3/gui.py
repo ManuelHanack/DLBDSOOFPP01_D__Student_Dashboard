@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Modul: gui.py
 Autor: Manuel Hanack (Matrikelnummer: IU14156336)
